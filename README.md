@@ -1,3 +1,5 @@
-# Ostad Live Test 7
+# Ostad Live Test 8
 
-![live7](https://github.com/JubairSayeedLinas/OstadLiveTest/assets/9390005/d177e836-ce57-432c-98f6-c767d6740ed1)
+![l-8](https://github.com/JubairSayeedLinas/OstadLiveTest/assets/9390005/6511f002-4432-4a53-a815-59f0e5d4a943)
+
+![l-81](https://github.com/JubairSayeedLinas/OstadLiveTest/assets/9390005/7937e78c-6518-4e57-abc2-05de93ef3963)
