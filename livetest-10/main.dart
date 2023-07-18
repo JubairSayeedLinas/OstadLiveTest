@@ -38,7 +38,7 @@ class NewsFeed extends StatelessWidget {
     return ListView.builder(
       itemCount: 10, // Replace with the actual number of articles
       itemBuilder: (context, index) {
-        // Replace this with your image URL
+   
         String imageUrl = 'https://images.pexels.com/photos/16790135/pexels-photo-16790135/free-photo-of-fog-over-bare-trees-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1';
 
         return Center(
@@ -62,7 +62,7 @@ class NewsFeed extends StatelessWidget {
       ),
       itemCount: 10, // Replace with the actual number of articles
       itemBuilder: (context, index) {
-        // Replace this with your image URL
+       
         String imageUrl = 'https://images.pexels.com/photos/16790135/pexels-photo-16790135/free-photo-of-fog-over-bare-trees-in-forest.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1';
 
         return Padding(
